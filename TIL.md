@@ -79,4 +79,6 @@
 - 내 브랜치로 git switch 하기
 - 내용 수정 - 커밋 후 git push origin 브랜치명 해주기
 - hub 로 돌아가서 pull-request 버튼 활성화 되어있는지 확인 후
-- hub에서 marge 
+- hub에서 marge 가 완료 되었으면 code에서
+- 마스터 브랜치로 git switch 해준 후 
+- git push origin master 해주면 완료
