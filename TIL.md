@@ -74,7 +74,7 @@
 
 ###  Pull-request
 
-- hub에서 레지포토리 코드 clone 하기
+- hub에서 레포지토리 코드 clone 하기
 - vscode 로 연 후 내 브랜치 생성 (git branch -c 브랜치명)
 - 내 브랜치로 git switch 하기
 - 내용 수정 - 커밋 후 git push origin 브랜치명 해주기
