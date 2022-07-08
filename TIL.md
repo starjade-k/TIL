@@ -42,6 +42,21 @@
 
   
 
-  
 
-  
+###  Branch, collison
+
+- <git branch 파일 명> 
+
+  -  브랜치 확인 및 생성
+
+    
+
+-  git switch 
+
+  - master 와 branch 를 드나들수 있음
+
+    
+
+- git merge 
+  - master 와 branch 를 합침
+  -  git branch 로 현재 master의 위치인지 확인 해야 함
