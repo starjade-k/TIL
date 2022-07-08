@@ -43,7 +43,7 @@
   
 
 
-###  Branch, collison
+###  Branch
 
 - <git branch 파일 명> 
 
@@ -59,4 +59,24 @@
 
 - git merge 
   - master 와 branch 를 합침
-  -  git branch 로 현재 master의 위치인지 확인 해야 함
+  
+  - git branch 로 현재 master의 위치인지 확인 해야 함
+  
+    
+
+###  Collison
+
+- commit 내역이 다를 때 충돌이 일어난다
+
+  a 와 b 파일 둘다 커밋이 다를 때 충돌
+  
+  
+
+###  Pull-request
+
+- hub에서 레지포토리 코드 clone 하기
+- vscode 로 연 후 내 브랜치 생성 (git branch -c 브랜치명)
+- 내 브랜치로 git switch 하기
+- 내용 수정 - 커밋 후 git push origin 브랜치명 해주기
+- hub 로 돌아가서 pull-request 버튼 활성화 되어있는지 확인 후
+- hub에서 marge 
